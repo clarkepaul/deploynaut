@@ -20,6 +20,7 @@
 	<% end_if %>
 </div>
 <div class="content text-center">
+
 	<div class="row">
 		<div class="col-md-8 col-md-offset-2">
 			<h3 class="">Create a snapshot</h3>
